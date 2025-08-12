@@ -28,36 +28,22 @@ Uses localStorage to keep your leads safe. Close your browser, restart your comp
 ### 🧹 Safe Deletion
 "DELETE ALL" requires a double-click. Because we've all been there with accidental deletions. 😅
 
-### 🎯 Smart Links
-Every saved lead becomes a clickable link that opens in a new tab. No more manual copying!
 
-## 🛠️ Quick Setup (2 Minutes Max!)
+## 🛠️ Quick Setup
 
 ### For Chrome Users:
 ```bash
-# Clone this bad boy
 git clone https://github.com/0xYurii/Leads-tracker.git
-
-# Or just download the ZIP if you're feeling lazy 📦
 ```
 
 1. **Open** `chrome://extensions` in your browser
 2. **Flip** the "Developer mode" toggle (top-right corner)
 3. **Click** "Load unpacked" 
 4. **Select** the project folder you just downloaded
-5. **Start** collecting leads like a pro! 🎉
 
 ### For Brave Users:
-Same steps but go to `brave://extensions` instead! Brave plays nice with Chrome extensions. 😎
+Same steps but go to `brave://extensions` instead!
 
-## 🎨 Built With Love & These Technologies
-
-| Tech | Why We Used It |
-|------|----------------|
-| 🟡 **Vanilla JavaScript** | Fast, lightweight, no dependencies |
-| 🎨 **CSS3** | Clean, modern styling |
-| 📝 **HTML5** | Semantic, accessible structure |
-| ⚡ **Manifest V3** | Latest Chrome extension standards |
 
 ## 🎯 Perfect For
 
@@ -74,9 +60,7 @@ Got ideas? Found a bug? Want to contribute?
 - 💡 [Suggest Features](https://github.com/0xYurii/Leads-tracker/issues/new)
 - 🤝 [Contribute Code](https://github.com/0xYurii/Leads-tracker/pulls)
 
-## 📸 Screenshots
 
-*Coming soon! Working on making this extension even more beautiful* 📷
 
 ## 🎉 Fun Stats
 
@@ -87,8 +71,7 @@ Got ideas? Found a bug? Want to contribute?
 
 ---
 
-### 💡 Pro Tip
-Pin the extension to your toolbar for instant access. You'll thank me later! 
+
 
 **Built with ❤️ by a developer who got tired of losing important links**
 
